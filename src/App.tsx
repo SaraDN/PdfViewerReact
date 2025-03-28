@@ -17,18 +17,6 @@ const pdfs = [
 		name: "Dummy PDF",
 		file: "dummy.pdf",
 	},
-	{
-		name: "Dummy PDF",
-		file: "dummy.pdf",
-	},
-	{
-		name: "Dummy PDF",
-		file: "dummy.pdf",
-	},
-	{
-		name: "Dummy PDF",
-		file: "dummy.pdf",
-	},
 
 ];
 
