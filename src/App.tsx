@@ -6,17 +6,22 @@ pdfjs.GlobalWorkerOptions.workerSrc = new URL("pdfjs-dist/build/pdf.worker.min.j
 
 const pdfs = [
 	{
-		name: "Dummy PDF",
-		file: "dummy.pdf",
+		name: "Calendar financiar 2025",
+		file: "CALENDAR_FINANCIAR_2025.pdf",
 	},
 	{
-		name: "Dummy PDF",
-		file: "dummy.pdf",
+		name: "CMIL raport curent Nr. 2",
+		file: "CMI_ RAPORT_CURENT_NR_2.pdf",
 	},
 	{
-		name: "Dummy PDF",
-		file: "dummy.pdf",
+		name: "CMIL raport curent Nr. 3",
+		file: "CMIL_Raport_curent_nr_3.pdf",
 	},
+	{
+		name: "CMIL raport curent Nr. 4",
+		file: "CMIL_Raport_curent_nr_4.pdf",
+	},
+
 
 ];
 
