@@ -21,8 +21,14 @@ const pdfs = [
 		name: "CMIL raport curent Nr. 4",
 		file: "CMIL_Raport_curent_nr_4.pdf",
 	},
-
-
+	{
+		name: "Raport audit COMCEREAL 2024",
+		file: "Raport_audit_Comcereal_2024.pdf",
+	},
+	{
+		name: "Nota D fundamentare",
+		file: "NOT_D_FUNDAMENTARE.pdf",
+	},
 ];
 
 const PDF = ({
