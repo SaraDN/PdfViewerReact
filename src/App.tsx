@@ -29,6 +29,18 @@ const pdfs = [
 		name: "Nota D fundamentare",
 		file: "NOT_D_FUNDAMENTARE.pdf",
 	},
+	{
+		name: "CMIL adresa intrebari",
+		file: "CMIL_ Adresa_intrebari_AGOA_28_29.04.2025.pdf",
+	},
+	{
+		name: "Politica remunerare",
+		file: "Politica_remunerare_2025.pdf",
+	},
+	{
+		name: "Raspuns adresa",
+		file: "Raspuns_adresa_996.pdf",
+	},
 ];
 
 const PDF = ({
