@@ -30,8 +30,8 @@ const pdfs = [
 		file: "NOT_D_FUNDAMENTARE.pdf",
 	},
 	{
-		name: "CMIL adresa intrebari",
-		file: "CMIL_ Adresa_intrebari_AGOA_28_29.04.2025.pdf",
+		name: "Adresa intrebari",
+		file: "adresa_intrebari.pdf",
 	},
 	{
 		name: "Politica remunerare",
