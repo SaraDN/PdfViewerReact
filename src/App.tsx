@@ -23,14 +23,18 @@ const pdfs = [
 	},
 	{
 		name: "CMIL raport curent Nr. 6",
-		file: "CMIL_RAPORT_CURENT_NR _6.pdf",
+		file: "CMIL_RAPORT_CURENT_NR_6.pdf",
+	},
+	{
+		name: "CMIL raport curent Nr. 7",
+		file: "CMIL_Raport_current_nr_7.pdf.pdf",
 	},
 	{
 		name: "Raport audit COMCEREAL 2024",
 		file: "Raport_audit_Comcereal_2024.pdf",
 	},
 	{
-		name: "Nota D fundamentare",
+		name: "Nota de fundamentare",
 		file: "NOT_D_FUNDAMENTARE.pdf",
 	},
 	{
