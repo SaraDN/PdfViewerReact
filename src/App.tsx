@@ -49,6 +49,14 @@ const pdfs = [
 		name: "Raspuns adresa",
 		file: "Raspuns_adresa_996.pdf",
 	},
+	{
+		name: "Comunicat publicare raport anual 2024",
+		file: "COMUNICAT_PUBLICARE_RAPORT_ANUAL_2024.pdf",
+	},
+	{
+		name: "Declaratie privind guvernanta corporativa 2024",
+		file: "DECLARATIE_PRIVIND_GUVERNANTA_CORPORATIVA_2024.pdf",
+	},
 ];
 
 const PDF = ({
