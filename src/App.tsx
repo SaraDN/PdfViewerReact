@@ -61,6 +61,11 @@ const pdfs = [
 		name: "Declaratie privind guvernanta corporativa 2024",
 		file: "DECLARATIE_PRIVIND_GUVERNANTA_CORPORATIVA_2024.pdf",
 	},
+
+	{
+		name: "CMIL RC9 2025 Model imputernicire speciala actionar prezent si corespondenta",
+		file: "CMIL_RC9_2025_Model_imputernicire_speciala_actionar_prezent_si_corespondenta.pdf",
+	},
 ];
 
 const PDF = ({
