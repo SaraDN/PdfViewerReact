@@ -35,7 +35,7 @@ const pdfs = [
 	},
 	{
 		name: "CMIL raport curent Nr. 9",
-		file: "CMIL_Raport_curent_nr_9.pdf",
+		file: "CMIL_Raport_curent_nr_9_rectificat.pdf",
 	},
 	{
 		name: "Raport audit COMCEREAL 2024",
