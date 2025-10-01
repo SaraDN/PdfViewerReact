@@ -70,6 +70,18 @@ const pdfs = [
 		name: "CMIL RC9 2025 Model imputernicire speciala actionar prezent si corespondenta",
 		file: "CMIL_RC9_2025_Model_imputernicire_speciala_actionar_prezent_si_corespondenta.pdf",
 	},
+	{
+		name: "COMCEREAL V Bilant SC 060825",
+		file: "COMCEREAL_bilant.pdf",
+	},
+	{
+		name: "COMCEREAL REC BIL SEM I",
+		file: "COMCEREAL_REC_BIL_SEM_I.pdf",
+	},
+	{
+		name: "RAPORT CURENT NR 10",
+		file: "RAPORT_CURENT_NR_10.pdf",
+	},
 ];
 
 const PDF = ({
