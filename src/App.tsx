@@ -86,6 +86,10 @@ const pdfs = [
 		name: "Comunicat distribuire dividende septembrie 2025",
 		file: "Comunicat_distribuire_dividende_SEPT_2025.pdf",
 	},
+	{
+		name: "Raport curent 1 calendar financiar",
+		file: "RAPORT_CURENT_1_CALENDAR_FINANCIAR.pdf",
+	},
 ];
 
 const PDF = ({
