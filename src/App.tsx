@@ -90,6 +90,30 @@ const pdfs = [
 		name: "Raport curent 1 calendar financiar",
 		file: "RAPORT_CURENT_1_CALENDAR_FINANCIAR.pdf",
 	},
+	{
+		name: "CMIL Raport curent nr 2",
+		file: "CMIL_Raport_curent_nr_2.pdf",
+	},
+	{
+		name: "BVC 2026",
+		file: "BVC_2026.pdf",
+	},
+	{
+		name: "RC 3 comunicat disponibilitate raport administratori",
+		file: "RC_3_COMUNICAT_DISPONIBILITATE_RAPORT_ADMINISTRATORI.pdf",
+	},
+	{
+		name: "RAPORT GESTIUNE ADMINISTRATORI 2025",
+		file: "RAPORT_GESTIUNE_ADMINISTRATORI_2025.pdf",
+	},
+	{
+		name: "RAPORTUL AUDITORIULUI INDEPENDENT",
+		file: "RAPORTUL_AUDITORIULUI_INDEPENDENT.pdf",
+	},
+	{
+		name: "SITUATII FINANCIARE 2025 AUDITATE",
+		file: "SITUATII_FINANCIARE_2025_AUDITATE.pdf",
+	},
 ];
 
 const PDF = ({
