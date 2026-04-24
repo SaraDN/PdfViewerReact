@@ -114,6 +114,10 @@ const pdfs = [
 		name: "SITUATII FINANCIARE 2025 AUDITATE",
 		file: "SITUATII_FINANCIARE_2025_AUDITATE.pdf",
 	},
+	{
+		name: "RAPORT CURENT NR 6",
+		file: "RAPORT_CURENT_NR_6.pdf",
+	},
 ];
 
 const PDF = ({
