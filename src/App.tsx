@@ -6,6 +6,22 @@ pdfjs.GlobalWorkerOptions.workerSrc = new URL("pdfjs-dist/build/pdf.worker.min.j
 
 const pdfs = [
 	{
+		name: "CMIL RC 7 HAGOA 2026",
+		file: "CMIL_RC_7_HAGOA_2026.pdf",
+	},
+	{
+		name: "ADRESA 894 142412 LONGSHIELD",
+		file: "ADRESA_894_142412_LONGSHIELD.pdf",
+	},
+	{
+		name: "Raspuns adresa 894 142412",
+		file: "Raspuns_adresa_894_142412.pdf",
+	},
+	{
+		name: "IMPUTERNICIRE LONGSHIELD",
+		file: "IMPUTERNICIRE_LONGSHIELD.pdf",
+	},
+	{
 		name: "Calendar financiar 2025",
 		file: "CALENDAR_FINANCIAR_2025.pdf",
 	},
