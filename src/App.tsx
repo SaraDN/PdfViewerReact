@@ -5,7 +5,15 @@ import { pdfjs } from "react-pdf";
 pdfjs.GlobalWorkerOptions.workerSrc = new URL("pdfjs-dist/build/pdf.worker.min.js", import.meta.url).toString();
 
 const pdfs = [
-	{
+	{	
+		name: "RAPORT CURENT NR 8",
+		file: "RAPORT_CURENT_NR_8.pdf",
+	},
+	{	
+		name: "COMCEREAL BILANT SEM 2026 Bilant SI_06--26_40086176_2026_06_SAGA SE_2",
+		file: "COMCEREAL_BILANT_SEM_2026_Bilant_SI_06--26_40086176_2026_06_SAGA_SE_2.pdf",
+	},
+	{	
 		name: "CMIL RC 7 HAGOA 2026",
 		file: "CMIL_RC_7_HAGOA_2026.pdf",
 	},
