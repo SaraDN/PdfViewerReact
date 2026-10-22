@@ -6,6 +6,10 @@ pdfjs.GlobalWorkerOptions.workerSrc = new URL("pdfjs-dist/build/pdf.worker.min.j
 
 const pdfs = [
 	{	
+		name: "RAPORT CURENT NR 9 Comunicat distribuire dividente",
+		file: "RAPORT_CURENT_NR_9_Comunicat_distribuire_dividende.pdf",
+	},
+	{	
 		name: "RAPORT CURENT NR 8",
 		file: "RAPORT_CURENT_NR_8.pdf",
 	},
